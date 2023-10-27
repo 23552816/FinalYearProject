@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "adamskripsieproofofconcept",
+  "private_key_id": "9758824dbf79f853835a1c8d17cd7e6928c00327",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCeDT0wtBIoNsAe\nm4mmdTVSAcS6EsYgpTxa5XZgiulpDyOMe3yHY9a1+gInMBYsmRy6QxUbEaSdnrID\nGnttbN8Gqqno7Xyw0vpvhXtn3Cm854eqwir4VNFkcYn6BOq1zRnYbDA/d0IIpMKk\noy8qgTJDUf+igNkkm5SJYUuES1r3kJY2qH+A/AuYOn+8TeLEuMdxgXBHU0TFrjTr\nn3+wZGerK29QWRqegYert/o3bFtrByMNWKHNBu1qx8g1CR3QslV3wGCoiDBzKCsE\nHqQfMYF9JGTxnwU5GYlM88pMKBnL9WmQ929pmUv0jDF6H8lPCMcfpC0m2bqKdnw9\nPK1wdv0dAgMBAAECggEAHcsdF8s6CP6ZJKvpPMmnbXgL34+ebZT4VaIfuH83FKjX\n6Kl2hgcZ+F/SfBSieXG7apkup1WiFFxP7inVzoDRYe5V7SSndqWus8sTwjZMX+G9\nP0Eu3HUQq8CDY+/9Vpv9HUD3r18JwZtdXa+tOnP0R6BzceycAjyZuXPvylZyJWx9\n5MdkXBSvLuxXWeqH0XYRUNDbVfhlpDmVksejZOqoHg/8ieYhlYvi+AX/K5E1e2/k\nbZt9LlG9D6u4lCtkJng4lAelfY9gRrKpLgjSVPISlqqHnPhlBWPK1w1fr3LzjFTl\nH4QccQNsZL8MV20RBRAoHK4M+HZY3B3lbTsY/ukuOQKBgQDbceztiiuj0XCWHtFr\nq1pu1V7XCFrDB6EdYki9+/1VqofzBbfzD6xRuX81dO37x+Pp9SWddPfE51gzSiVA\nRL0zV+yLXuhSsR6Gkm5M4b+XR+6ZMeQCgLbhPIvSQqM8FftlyMWAbI2v6Cui+e5s\nQOorOTtZFws3/09hshyR4/NDywKBgQC4YT2D4lGvRpIU6zzapd3FQgg8rypUo2ss\nlSAWnLIQCispMtOk5Df2FS43kZ+MbMajyCwpkJHiu93RWGLNTbNsOJs7Af29jexN\ncEeaogV3JNEKIfPp27hmRlyjrnQE4+3M0ZPIq7wh04cJH7kqnXNBPpld2kZr8mpr\nFl3axYm1twKBgQCEmAbP1K/fsRo1KvPg+c2PsI84oMyukTqRlaRcXxlInNy+Q9NN\nI0g8rTem5jsx6irVX5HV3SokqKCLhR6TAbXMgzDjWXpJFMpcB7hr7e+lCgqqOBIM\nTRezarEVX7xf/uxDKRflLDJEeqV7OUcN0/9qFI++mgTmVfbyEfvfTvvbFwKBgHVg\naiHgXPIBMhQhIS9scj8WZ1oChSc2lY7fLHtYq76sSofCtJt/MeT13ONBUFm8EcTI\nNN0NDOJTiMWxx8w9D+DwNFofTWJzzCAMP3lAdcxAYtdZgAa7equZVXZaI7/NPmCq\ndrNEKNM77vYu/NkVPP8nE8l8oGIuA/NCXONd5+oHAoGAY52GTXfp93fFAg3B7ok+\nd5fbi24jvyQbfN60nRGbZYncnJPsVjTxdYoGvIxEInK70YbYx2NIN7pzg3AyejQh\nRmNxdKDPt6NxBfNeuwD0K4TXYp1GbGM05MmcyBmUUMZTmKKRyDg2S+sy9JnUIPtD\nJEtHy/wtflb+YZlj1dsE2uE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "adamskripsieproofofconcept@adamskripsieproofofconcept.iam.gserviceaccount.com",
+  "client_id": "114135711389925501022",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/adamskripsieproofofconcept%40adamskripsieproofofconcept.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

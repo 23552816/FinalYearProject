@@ -1,0 +1,7 @@
+start timestamp =  2022-12-25  00:30:00
+0 = Karoo Taxidermy 2
+1 = Mnr G.C Holmes Dalham Broeikaste
+2 = Graff Reinet Lughawe Vliegveld
+3 = Wimpy
+4 = Messrs Midland Hospital
+5 = Vodacom (Pty) Ltd (Ravelskloof)
